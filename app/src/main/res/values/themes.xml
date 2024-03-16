@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DynamicHeightDashboardApp" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+
+        <item name="android:textColorPrimary">@color/white</item>
+
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:itemBackground">#ffffff</item>
+        <item name="android:textColor">#fff</item>
+
+    </style>
+
+    <style name="Theme.DynamicHeightDashboardApp" parent="Base.Theme.DynamicHeightDashboardApp" />
+</resources>
